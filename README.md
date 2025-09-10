@@ -16,7 +16,8 @@ It features a **Player vs Computer** mode with an interactive graphical user int
 ---
 
 ##📜 License
-This project is open-source. Feel free to use it for learning and improvements.
+
+-This project is open-source. Feel free to use it for learning and improvements.
 
 ## 🛠 Requirements
 - Python 3.x
